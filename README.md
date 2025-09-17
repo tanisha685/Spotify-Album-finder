@@ -56,11 +56,6 @@ Deploy the `dist/` folder on **Netlify**.
 
 ## 🚀 Live Demo
 
-[Netlify Deployment Link](https://album-finder-tanisha1.netlify.app/)
+[Spotofy Album Finder](https://album-finder-tanisha1.netlify.app/)
 
-```
 
----
-
-Do you also want me to make a **short tagline (1 line)** under the title like _“Search any artist and explore their albums instantly with Spotify API”_?
-```
